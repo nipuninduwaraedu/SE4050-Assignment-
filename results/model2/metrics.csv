@@ -1,2 +1,0 @@
-Model,Test Accuracy,Precision (Macro),Recall (Macro),F1-Score (Macro),Training Time (s),Trainable Parameters
-1D CNN,0.9090600609779358,0.9141630667566844,0.9082252466235055,0.9087334516190636,108.93239259719849,553222
